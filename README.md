@@ -28,15 +28,15 @@ https://ppuram-maker.github.io/AI-Translator-Pro/
 
 ### Home Page
 
-![Home](screenshots/home.png)
+![Home](screenshots/Home.png)
 
 ### Translation Example
 
-![Translation](screenshots/translation.png)
+![Translation](screenshots/Translation.png)
 
 ### History
 
-![History](screenshots/history.png)
+![History](screenshots/History.png)
 
 ## Author
 
