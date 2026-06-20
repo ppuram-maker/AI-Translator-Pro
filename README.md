@@ -1,26 +1,28 @@
-🌍 AI Translator Pro
+# 🌍 AI Translator Pro
 
-AI Translator Pro is a modern language translation web application built using HTML, CSS, and JavaScript.
+AI Translator Pro is a web-based language translation application that allows users to translate text between multiple languages instantly.
 
-Features
+## Features
 
-- 🌍 Multi-language Translation
-- 🎤 Voice Input
-- 🔊 Text-to-Speech
-- 📋 Copy Translation
-- ⬇ Download Translation
-- 🌙 Dark Mode
-- 📊 Statistics Dashboard
-- 🕒 Translation History
-- 📱 Responsive Design
+- Translate text across 20+ languages
+- Voice Input
+- Text-to-Speech
+- Copy Translation
+- Download Translation
+- Translation History
+- Responsive UI
 
-Technologies Used
+## Technologies Used
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 - MyMemory Translation API
 - Web Speech API
+
+## Live Demo
+
+https://ppuram-maker.github.io/AI-Translator-Pro/
 
 ## Screenshots
 
@@ -32,18 +34,10 @@ Technologies Used
 
 ![Translation](screenshots/translation.png)
 
-### Translation History
+### History
 
 ![History](screenshots/history.png)
 
-How To Run
-
-1. Download the project
-2. Open the folder
-3. Open index.html
-
-Or run using VS Code Live Server.
-
-Author
+## Author
 
 Pavan Adithya
