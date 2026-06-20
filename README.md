@@ -22,19 +22,19 @@ Technologies Used
 - MyMemory Translation API
 - Web Speech API
 
-Screenshots
+## Screenshots
 
-Home Page
+### Home Page
 
-"Home" (screenshots/Home.png)
+![Home](screenshots/home.png)
 
-Translation Example
+### Translation Example
 
-"Translation" (screenshots/Translation.png)
+![Translation](screenshots/translation.png)
 
-History
+### Translation History
 
-"History" (screenshots/History.png)
+![History](screenshots/history.png)
 
 How To Run
 
